@@ -1,6 +1,6 @@
 # SantanderCustomerSatisfaction
 
-Neste repositório foi submetido o Projeto proposto pelo curso Big Data Real-Time Analytics com Python e Spark (Capítulo 12 - Porjetos com Feedback), da Data Science Academy. Formação Cientista de Dados.
+Neste repositório foi submetido o Projeto proposto pelo curso Big Data Real-Time Analytics com Python e Spark (Capítulo 12 - Projetos com Feedback)
 
 ## Descrição
 
@@ -12,4 +12,7 @@ Neste projeto de aprendizado de máquina, você trabalhará com centenas de recu
 
 Defina claramente o problema de negócio, faça a coleta e preparo dos dados, escolha um algoritmo, treine o modelo e avalie a acurácia, que deve ser de pelo menos 70%.
 
-Para este projeto, recomendamos a utilização da linguagem Python e o dataset disponível no Kaggle em: https://www.kaggle.com/c/santander-customer-satisfaction
+Para este projeto, o dataset está disponível no Kaggle em: https://www.kaggle.com/c/santander-customer-satisfaction
+
+## Resposta
+A resposta está no arquivo: 'santander-customer-satisfaction/sample_submission.csv'
